@@ -27,6 +27,8 @@ easy as possible all examples can be directly run on
  
  ## Slides
  
+ Introduction to Keras [[Slide](https://drive.google.com/file/d/1eu_hZVk3X6rGPS7umVuoyfMc8T2lB2_n/view?usp=sharing)]
+ 
  Classical CV [[Slide]()]
  
  Adversarial ML [[Slide](https://drive.google.com/file/d/1SHESL8v4EPeVVMMiPd-gsl8dY5hXJtTK/view?usp=sharing)]
