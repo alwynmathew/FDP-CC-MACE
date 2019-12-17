@@ -27,10 +27,8 @@ easy as possible all examples can be directly run on
  
  ## Slides
  
- Introduction to Keras [[Slide](https://drive.google.com/file/d/1eu_hZVk3X6rGPS7umVuoyfMc8T2lB2_n/view?usp=sharing)]
- 
- Classical CV [[Slide]()]
- 
- Adversarial ML [[Slide](https://drive.google.com/file/d/1SHESL8v4EPeVVMMiPd-gsl8dY5hXJtTK/view?usp=sharing)]
+ * Classical CV [[Slide](https://drive.google.com/file/d/1ilEGYf4fWKHH8jAE2V4U-Q9F-HhBJke2/view?usp=sharing)]
+ * Introduction to Keras [[Slide](https://drive.google.com/file/d/1eu_hZVk3X6rGPS7umVuoyfMc8T2lB2_n/view?usp=sharing)]
+ * Adversarial ML [[Slide](https://drive.google.com/file/d/1SHESL8v4EPeVVMMiPd-gsl8dY5hXJtTK/view?usp=sharing)]
  
  Slides are borrowed from different sources like [Stanford CS231n](http://cs231n.stanford.edu/), [iangoodfellow](http://www.iangoodfellow.com/), etc.
